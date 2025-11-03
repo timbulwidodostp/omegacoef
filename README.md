@@ -1,0 +1,2 @@
+# omegacoef
+Calculates McDonald's omega, also known as Raykov's rho, as a desirable reliability estimate for congeneric scales comprised of continuous variables Use omegacoef With STATA 19
